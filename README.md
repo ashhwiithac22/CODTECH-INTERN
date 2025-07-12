@@ -1,10 +1,10 @@
-# CODTECH-INTERN# 
-CodTech Cloud Computing Internship – Task Submission
+# CODTECH-INTERN
+# CodTech Cloud Computing Internship – Task Submission
 
 **Name:** Ashwitha C  
 **Internship Domain:** Cloud Computing  
 **Internship Provider:** CodTech  
-**GitHub Repository:** [Codteck-Intern](https://github.com/ashhwiithac22/Codteck-Intern)
+**GitHub Repository:** [CODTECH-INTERN](https://github.com/ashhwiithac22/Codteck-Intern)
 
 ---
 
@@ -27,7 +27,7 @@ CodTech Cloud Computing Internship – Task Submission
 - Configured alert policy based on CPU threshold
 - Monitored real-time metrics on Google Cloud Monitoring dashboard
 
-📎 *Screenshots included in Task 2 folder*
+  *Screenshots included in Task 2 folder*
 
 ---
 
@@ -37,7 +37,7 @@ CodTech Cloud Computing Internship – Task Submission
 - Linked PDF hosted on Google Cloud Storage
 - Demonstrated multi-cloud integration (Netlify + GCP)
 
-📎 *Task 3 report included as PDF*  
+    *Task 3 report included as PDF*  
 🌐 *Live Demo:* [https://enchanting-torrone-ba6908.netlify.app/](https://enchanting-torrone-ba6908.netlify.app/)  
 📄 *[Task 3 PDF Report](./Task3_MultiCloud_Report.pdf)*
 
@@ -50,7 +50,7 @@ CodTech Cloud Computing Internship – Task Submission
 - Created and applied Cloud KMS key using Cloud Shell
 - Applied Customer-Managed Encryption (CMEK) to bucket
 
-📎 *Task 4 report included as PDF*  
+    *Task 4 report included as PDF*  
 📄 *[Task 4 PDF Report](./Task4_CloudSecurity_Report.pdf)*
 
 ---

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"# Codtech Internship Tasks" 
-=======
 # CODTECH-INTERN
 # CodTech Cloud Computing Internship – Task Submission
 
@@ -64,5 +61,3 @@
 - Used Google Cloud Platform (GCP) and Netlify to complete all tasks.
 ---
 
-
->>>>>>> 97379cfb5c6c12f6b7711a8666b863ada1c11889
